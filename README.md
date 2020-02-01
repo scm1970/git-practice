@@ -32,3 +32,6 @@ Merging means to bring the changes from one branch to other
 
 # Remote Repo
 What's a remote repo. 
+
+# Trying to work with intelliJ and Github
+Test

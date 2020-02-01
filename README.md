@@ -18,8 +18,8 @@
 - git log --oneline --graph --all : nice log
 - git remote add origin https://github.com/scm1970/git-practice.git
 - git remote -v
-= git push -u origin master
-
+- git push -u origin master
+- git fetch : fetches changes
 # Merging
 Merging means to bring the changes from one branch to other
 

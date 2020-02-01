@@ -20,6 +20,8 @@
 - git remote -v
 - git push -u origin master
 - git fetch : fetches changes
+- git pull : fetch and merge
+
 # Merging
 Merging means to bring the changes from one branch to other
 
@@ -28,3 +30,5 @@ Merging means to bring the changes from one branch to other
 - An automatic merge happens when histories have diverged but git is able to reconcile them into one set of changes
 
 
+# Remote Repo
+What's a remote repo. 

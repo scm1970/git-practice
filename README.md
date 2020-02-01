@@ -6,3 +6,6 @@
 - git commit
 - git config: Set or get configuration
 - git log: Show history
+- git branch -c : Create Branch
+- git checkout branch branchname : Checkout branch
+- git branch : List branches

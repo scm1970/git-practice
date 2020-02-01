@@ -1,6 +1,6 @@
 # Practice repo to start learning Git`
 
-- git init: Create a repo
+- git init: Create a new git repo
 - git status - Compare working
 - git add - Add to staging
 - git commit

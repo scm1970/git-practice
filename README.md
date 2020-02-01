@@ -7,6 +7,8 @@
 - git config: Set or get configuration
 - git log: Show history (aka "log' ) of project commits`
 - git checkout : Checkout branch
+- git branch : List branches
+- git branch - b New branch: creates and checks out a new branch
 - git merge : Merge changes
 
 # Merging

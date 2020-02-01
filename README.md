@@ -8,3 +8,6 @@
 - git log: Show history
 - git checkout : Checkout branch
 - git merge : Merge changes
+
+# Merging
+Merging means to bring the changes from one branch to other

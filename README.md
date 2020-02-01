@@ -5,7 +5,7 @@
 - git add - Add to staging
 - git commit
 - git config: Set or get configuration
-- git log: Show history
+- git log: Show history (aka "log' ) of project commits`
 - git checkout : Checkout branch
 - git merge : Merge changes
 

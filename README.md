@@ -4,3 +4,5 @@
 - git status - Compare working
 - git add - Add to staging
 - git commit
+- git config: Set or get configuration
+- git log: Show history

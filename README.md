@@ -9,3 +9,6 @@
 - git stash: Stash changes from workinng dir
 - git stash list : List stashes
 - git stash pop: Apply changes to current dir
+- git show : show a single commit
+- git diff - show the difference between commits
+- git log --oneline --graph --all : nice log
